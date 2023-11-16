@@ -707,6 +707,67 @@ p {
 .offcanvas-header-text{
   display: flex;
   flex-direction: column;
+
+}
+#offcanvas-text-block{
+  margin-top: 150px;
+  align-content: start;
+
+  margin-left: 80px;
+}
+#offcanvasExample{
+  width: 500px;
+  background: #111;
+  height: 100%;
+  transform: translateX(100%);
+  transition: transform 0.7s ease;
+  position: fixed;
+  top: 0;
+
+
+}
+#offcanvasExample.show {
+  transform: translateX(0); /* Показываем offcanvas */
+}
+.offcanvas-text-title{
+  margin-bottom: 25px;
+  font-family: Garamond, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+
+  color: #FFF;
+
+}
+.offcanvas-text-title-start{
+
+  margin-bottom: 160px;
+  color: #FFF;
+  font-family: Cormorant Garamond, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 130%;
+  width: 315px;
+}
+.offcanvas-text{
+  margin-top: 25px;
+  color: #FFF;
+  font-family: Cormorant Garamond, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 130%;
+}
+#offcanvas-super-text{
+  margin-top: 25px;
+  margin-bottom: 72px;
+  color: #FFF;
+  font-family: Cormorant Garamond, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 130%;
 }
 
 /* ===== Features CSS ===== */

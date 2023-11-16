@@ -59,3 +59,6 @@
     scrollTo(document.documentElement);
   };
 })();
+
+
+let offcanvas = new bootstrap.Offcanvas(document.getElementById('offcanvasExample'));
