@@ -79,46 +79,10 @@
                     <a class="ud-menu-scroll" href="#team">Партнеры</a>
                   </li>
                   <li class="nav-item">
-                    <a class="ud-menu-scroll" href="#contact">Контакты</a>
+                    <a class="ud-menu-scroll" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button" aria-controls="offcanvasExample">Контакты</a>
                   </li>
-                  <li class="nav-item nav-item-has-children">
-                    <a href="javascript:void(0)"> Страницы</a>
-                    <ul class="ud-submenu">
-                      <li class="ud-submenu-item">
-                        <a href="about.html" class="ud-submenu-link">
-                          История
-                        </a>
-                      </li>
-                      <li class="ud-submenu-item">
-                        <a href="pricing.html" class="ud-submenu-link">
-                          Цели и задачи
-                        </a>
-                      </li>
-                      <li class="ud-submenu-item">
-                        <a href="contact.html" class="ud-submenu-link">
-                          Контакты
-                        </a>
-                      </li>
-                      <li class="ud-submenu-item">
-                        <a href="blog.html" class="ud-submenu-link">
-                          Новости
-                        </a>
-                      </li>
-                      <li class="ud-submenu-item">
-                        <a href="blog-details.html" class="ud-submenu-link">
-                          Партнеры
-                        </a>
-                      </li>
-                      <li class="ud-submenu-item">
-                        <a href="login.html" class="ud-submenu-link">
-                          Отчеты 
-                        </a>
-                      </li>
-                      <li class="ud-submenu-item">
-                        <a href="404.html" class="ud-submenu-link">Реквизиты</a>
-                      </li>
-                    </ul>
-                  </li>
+
+
                 </ul>
               </div>
             </nav>
@@ -128,7 +92,24 @@
       <hr class="white-line">
     </header>
     <!-- ====== Header End ====== -->
+    <div class="offcanvas offcanvas-end" data-bs-scroll="true" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
+      <div class="offcanvas-header">
+        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"  aria-label="Закрыть"></button>
+      </div>
+      <div class=" offcanvas-body" >
+        <div class="col-12 d-flex flex-column  justify-content-center" id="offcanvas-text-block">
+          <p class="offcanvas-text-title-start">Контактная информация или информация про организацию</p>
+          <h3 class="offcanvas-text-title">Контакты</h3>
 
+          <p class="offcanvas-text">+7 (812) 123-45-67</p>
+          <p class="offcanvas-text">+7 (911) 123-45-67</p>
+          <p id="offcanvas-super-text">Новоостровский проспект, дом 36 лит.С</p>
+          <h3 class="offcanvas-text-title">Режим работы</h3>
+          <p class="offcanvas-text">C 10:00 до 21:00 (Пн-Пт)</p>
+          <p class="offcanvas-text">С 11:00 до 20:00 (Сб-Вс)</p>
+        </div>
+      </div>
+    </div>
     <!-- ====== Hero Start ====== -->
     <section class="ud-hero" id="home">
       <div class="container">
