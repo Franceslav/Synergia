@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="280" height="300">
+  <defs>
+    <path id="a" fill="#fff" d="M64 0h4v65h-4z"/>
+    <path id="b" d="M67 0h2v65h-2z"/>
+    <path id="d" fill="#fff" d="M60 0h9v11h-9z"/>
+    <path id="e" d="M59.244389-.159601h1v5h-1z"/>
+    <path id="f" d="M65 5h1v5h-1z"/>
+    <path id="g" d="M1.3952584-67.856606h1v5h-1z"/>
+    <path id="h" d="M7.1408939-62.270573h1v5h-1z"/>
+    <path id="j" d="M64 0h5v5h-5z"/>
+    <path id="k" fill="#fff" d="M64 0h3v3h-3z"/>
+    <path id="m" fill="#fff" d="M60 0h9v9h-9z"/>
+    <path id="n" d="M61 5h1v1h-1z"/>
+    <path id="o" d="M65 1h1v1h-1z"/>
+    <path id="q" d="M61 0h1v5h-1z"/>
+    <path id="r" d="M61 7h1v1h-1z"/>
+    <path id="s" d="M65 2h1v1h-1z"/>
+  </defs>
+  <defs>
+    <pattern id="c" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#a"/>
+        <use xlink:href="#b"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#c" id="aS" patternTransform="rotate(90 -1 1)"/>
+    <pattern id="aT" width="11.729427" height="11.159601" patternTransform="translate(1.490023 -16.73815)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-57.27057 .159601)">
+        <use xlink:href="#d"/>
+        <use xlink:href="#e"/>
+        <use xlink:href="#f"/>
+        <use xlink:href="#g" transform="rotate(90)"/>
+        <use xlink:href="#h" transform="rotate(90)"/>
+      </g>
+    </pattern>
+    <pattern id="i" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#a"/>
+        <use xlink:href="#b"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#i" id="aU" patternTransform="translate(26)"/>
+    <pattern id="l" width="4" height="4" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#j"/>
+        <use xlink:href="#k"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#l" id="aV" patternTransform="rotate(45 11.08578644 33.5918831)"/>
+    <pattern id="p" width="8" height="8" patternTransform="translate(60)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-60)">
+        <use xlink:href="#m"/>
+        <use xlink:href="#n"/>
+        <use xlink:href="#o"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#p" id="aX" patternTransform="translate(28 7)"/>
+    <pattern id="t" width="8" height="10" patternTransform="translate(60)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-60)">
+        <use xlink:href="#d"/>
+        <use xlink:href="#q"/>
+        <use xlink:href="#r"/>
+        <use xlink:href="#s"/>
+        <use xlink:href="#f"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#t" id="aY" patternTransform="translate(28 8)"/>
+    <pattern id="u" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#a"/>
+        <use xlink:href="#b"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#u" id="aZ" patternTransform="rotate(45 28.75 69.40863992)"/>
+    <pattern id="v" width="4" height="4" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#j"/>
+        <use xlink:href="#k"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#v" id="ba" patternTransform="translate(30 2)"/>
+    <pattern id="w" width="4" height="4" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#j"/>
+        <use xlink:href="#k"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#w" id="bb" patternTransform="matrix(1 0 1 1 3 2)"/>
+    <pattern id="x" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#a"/>
+        <use xlink:href="#b"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#x" id="bc" patternTransform="rotate(135 13.8964466 6.04898987)"/>
+    <pattern xlink:href="#y" id="aQ" patternTransform="rotate(135 13.8964466 6.04898987)"/>
+    <pattern id="y" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#a"/>
+        <use xlink:href="#b"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#z" id="aP" patternTransform="matrix(1 0 1 1 3 2)"/>
+    <pattern id="z" width="4" height="4" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#j"/>
+        <use xlink:href="#k"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#A" id="aO" patternTransform="translate(30 2)"/>
+    <pattern id="A" width="4" height="4" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#j"/>
+        <use xlink:href="#k"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#B" id="aN" patternTransform="rotate(45 28.75 69.40863992)"/>
+    <pattern id="B" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#a"/>
+        <use xlink:href="#b"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#C" id="aM" patternTransform="translate(28 8)"/>
+    <pattern id="C" width="8" height="10" patternTransform="translate(60)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-60)">
+        <use xlink:href="#d"/>
+        <use xlink:href="#q"/>
+        <use xlink:href="#r"/>
+        <use xlink:href="#s"/>
+        <use xlink:href="#f"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#D" id="aL" patternTransform="translate(28 7)"/>
+    <pattern id="D" width="8" height="8" patternTransform="translate(60)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-60)">
+        <use xlink:href="#m"/>
+        <use xlink:href="#n"/>
+        <use xlink:href="#o"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#E" id="aJ" patternTransform="rotate(45 11.08578644 33.5918831)"/>
+    <pattern id="E" width="4" height="4" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#j"/>
+        <use xlink:href="#k"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#F" id="aI" patternTransform="translate(26)"/>
+    <pattern id="F" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#a"/>
+        <use xlink:href="#b"/>
+      </g>
+    </pattern>
+    <pattern id="aH" width="11.729427" height="11.159601" patternTransform="translate(1.490023 -16.73815)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-57.27057 .159601)">
+        <use xlink:href="#d"/>
+        <use xlink:href="#e"/>
+        <use xlink:href="#f"/>
+        <use xlink:href="#g" transform="rotate(90)"/>
+        <use xlink:href="#h" transform="rotate(90)"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#G" id="aG" patternTransform="rotate(90 -1 1)"/>
+    <pattern id="G" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#a"/>
+        <use xlink:href="#b"/>
+      </g>
+    </pattern>
+    <pattern id="H" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#a"/>
+        <use xlink:href="#b"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#H" id="ai" patternTransform="rotate(90 -1 1)"/>
+    <pattern id="aj" width="11.729427" height="11.159601" patternTransform="translate(1.490023 -16.73815)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-57.27057 .159601)">
+        <use xlink:href="#d"/>
+        <use xlink:href="#e"/>
+        <use xlink:href="#f"/>
+        <use xlink:href="#g" transform="rotate(90)"/>
+        <use xlink:href="#h" transform="rotate(90)"/>
+      </g>
+    </pattern>
+    <pattern id="I" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#a"/>
+        <use xlink:href="#b"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#I" id="ak" patternTransform="translate(26)"/>
+    <pattern id="J" width="4" height="4" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#j"/>
+        <use xlink:href="#k"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#J" id="al" patternTransform="rotate(45 11.08578644 33.5918831)"/>
+    <pattern id="K" width="8" height="8" patternTransform="translate(60)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-60)">
+        <use xlink:href="#m"/>
+        <use xlink:href="#n"/>
+        <use xlink:href="#o"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#K" id="an" patternTransform="translate(28 7)"/>
+    <pattern id="L" width="8" height="10" patternTransform="translate(60)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-60)">
+        <use xlink:href="#d"/>
+        <use xlink:href="#q"/>
+        <use xlink:href="#r"/>
+        <use xlink:href="#s"/>
+        <use xlink:href="#f"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#L" id="ao" patternTransform="translate(28 8)"/>
+    <pattern id="M" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#a"/>
+        <use xlink:href="#b"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#M" id="ap" patternTransform="rotate(45 28.75 69.40863992)"/>
+    <pattern id="N" width="4" height="4" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#j"/>
+        <use xlink:href="#k"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#N" id="aq" patternTransform="translate(30 2)"/>
+    <pattern id="O" width="4" height="4" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#j"/>
+        <use xlink:href="#k"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#O" id="ar" patternTransform="matrix(1 0 1 1 3 2)"/>
+    <pattern id="P" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#a"/>
+        <use xlink:href="#b"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#P" id="as" patternTransform="rotate(135 13.8964466 6.04898987)"/>
+    <pattern xlink:href="#Q" id="aE" patternTransform="rotate(135 13.8964466 6.04898987)"/>
+    <pattern id="Q" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#a"/>
+        <use xlink:href="#b"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#R" id="aD" patternTransform="matrix(1 0 1 1 3 2)"/>
+    <pattern id="R" width="4" height="4" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#j"/>
+        <use xlink:href="#k"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#S" id="aC" patternTransform="translate(30 2)"/>
+    <pattern id="S" width="4" height="4" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#j"/>
+        <use xlink:href="#k"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#T" id="aB" patternTransform="rotate(45 28.75 69.40863992)"/>
+    <pattern id="T" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#a"/>
+        <use xlink:href="#b"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#U" id="aA" patternTransform="translate(28 8)"/>
+    <pattern id="U" width="8" height="10" patternTransform="translate(60)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-60)">
+        <use xlink:href="#d"/>
+        <use xlink:href="#q"/>
+        <use xlink:href="#r"/>
+        <use xlink:href="#s"/>
+        <use xlink:href="#f"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#V" id="az" patternTransform="translate(28 7)"/>
+    <pattern id="V" width="8" height="8" patternTransform="translate(60)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-60)">
+        <use xlink:href="#m"/>
+        <use xlink:href="#n"/>
+        <use xlink:href="#o"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#W" id="ax" patternTransform="rotate(45 11.08578644 33.5918831)"/>
+    <pattern id="W" width="4" height="4" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#j"/>
+        <use xlink:href="#k"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#X" id="aw" patternTransform="translate(26)"/>
+    <pattern id="X" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#a"/>
+        <use xlink:href="#b"/>
+      </g>
+    </pattern>
+    <pattern id="av" width="11.729427" height="11.159601" patternTransform="translate(1.490023 -16.73815)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-57.27057 .159601)">
+        <use xlink:href="#d"/>
+        <use xlink:href="#e"/>
+        <use xlink:href="#f"/>
+        <use xlink:href="#g" transform="rotate(90)"/>
+        <use xlink:href="#h" transform="rotate(90)"/>
+      </g>
+    </pattern>
+    <pattern xlink:href="#Y" id="au" patternTransform="rotate(90 -1 1)"/>
+    <pattern id="Y" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+      <g transform="translate(-64)">
+        <use xlink:href="#a"/>
+        <use xlink:href="#b"/>
+      </g>
+    </pattern>
+    <radialGradient xlink:href="#Z" id="ah" cx="27" cy="31.70000076" r="26" fx="27" fy="31.70000076" gradientTransform="matrix(1 0 0 1.18077 0 -5.730385)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#aa" id="am" cx="27" cy="31.70000076" r="26" fx="27" fy="31.70000076" gradientTransform="matrix(1 0 0 1.18077 0 -5.730385)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#ab" id="at" cx="27" cy="31.70000076" r="26" fx="27" fy="31.70000076" gradientTransform="matrix(1 0 0 1.18077 0 -5.730385)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#ac" id="ay" cx="27" cy="31.70000076" r="26" fx="27" fy="31.70000076" gradientTransform="matrix(1 0 0 1.18077 0 -5.730385)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#ad" id="aF" cx="27" cy="31.70000076" r="26" fx="27" fy="31.70000076" gradientTransform="matrix(1 0 0 1.18077 0 -5.730385)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#ae" id="aK" cx="27" cy="31.70000076" r="26" fx="27" fy="31.70000076" gradientTransform="matrix(1 0 0 1.18077 0 -5.730385)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#af" id="aR" cx="27" cy="31.70000076" r="26" fx="27" fy="31.70000076" gradientTransform="matrix(1 0 0 1.18077 0 -5.730385)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#ag" id="aW" cx="27" cy="31.70000076" r="26" fx="27" fy="31.70000076" gradientTransform="matrix(1 0 0 1.18077 0 -5.730385)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient id="af">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e0e0e0"/>
+    </linearGradient>
+    <linearGradient id="ag">
+      <stop offset="0" stop-color="#ff0"/>
+      <stop offset="1" stop-color="#ffe000"/>
+    </linearGradient>
+    <linearGradient id="ae">
+      <stop offset="0" stop-color="#ff0"/>
+      <stop offset="1" stop-color="#ffe000"/>
+    </linearGradient>
+    <linearGradient id="ad">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e0e0e0"/>
+    </linearGradient>
+    <linearGradient id="Z">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e0e0e0"/>
+    </linearGradient>
+    <linearGradient id="aa">
+      <stop offset="0" stop-color="#ff0"/>
+      <stop offset="1" stop-color="#ffe000"/>
+    </linearGradient>
+    <linearGradient id="ac">
+      <stop offset="0" stop-color="#ff0"/>
+      <stop offset="1" stop-color="#ffe000"/>
+    </linearGradient>
+    <linearGradient id="ab">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e0e0e0"/>
+    </linearGradient>
+  </defs>
+  <use xlink:href="#Shield1" width="1" height="1" fill="url(#ah)" stroke-width="0" transform="translate(-1844.33727474 1436.99533423) scale(.22804)"/>
+  <use xlink:href="#Shield1R" width="1" height="1" fill="#fff" stroke-width="0" transform="translate(-1844.33727474 1436.99533423) scale(.22804)"/>
+  <use xlink:href="#Shield1" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-1844.33727474 1436.99533423) scale(.22804)"/>
+  <use xlink:href="#Shield1-2" width="1" height="1" fill="#00f" stroke-width="0" transform="translate(-1862.07457474 1413.09463423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-3" width="1" height="1" fill="url(#ai)" stroke-width="0" transform="translate(-1862.07457474 1413.09463423) scale(.22804)"/>
+  <use xlink:href="#Shield1-2" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-1862.07457474 1413.09463423) scale(.22804)"/>
+  <use xlink:href="#Shield1-8" width="1" height="1" fill="gray" stroke-width="0" transform="translate(-1862.10847474 1436.27883423) scale(.22804)"/>
+  <use xlink:href="#Shield1-8" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-1862.10847474 1436.27883423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-0" width="54" height="64" fill="#fff" stroke-width="0" transform="translate(-1862.05857474 1436.29263423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-0" width="54" height="64" fill="url(#aj)" stroke-width="0" transform="translate(-1861.92657474 1436.24243423) scale(.22804)"/>
+  <use xlink:href="#Shield1-88" width="1" height="1" fill="red" stroke-width="0" transform="translate(-1862.07457474 1459.46303423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-7" width="1" height="1" fill="url(#ak)" stroke-width="0" transform="translate(-1862.07457474 1459.46303423) scale(.22804)"/>
+  <use xlink:href="#Shield1-88" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-1862.07457474 1459.46303423) scale(.22804)"/>
+  <use xlink:href="#Shield1-21" width="1" height="1" fill="#800040" stroke-width="0" transform="translate(-1862.07457474 1482.64723423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-72" width="1" height="1" fill="url(#al)" stroke-width="0" transform="translate(-1862.07457474 1482.64723423) scale(.22804)"/>
+  <use xlink:href="#Shield1-21" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-1862.07457474 1482.64723423) scale(.22804)"/>
+  <use xlink:href="#Shield1-7" width="1" height="1" fill="url(#am)" stroke-width="0" transform="translate(-1862.07457474 1505.83143423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-08" width="1" height="1" fill="url(#an)" stroke-width="0" transform="translate(-1862.07457474 1505.83143423) scale(.22804)"/>
+  <use xlink:href="#Shield1-7" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-1862.07457474 1505.83143423) scale(.22804)"/>
+  <use xlink:href="#Shield1-3" width="1" height="1" fill="#ff8000" stroke-width="0" transform="translate(-1844.01457474 1503.86073423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-6" width="1" height="1" fill="url(#ao)" stroke-width="0" transform="translate(-1844.01457474 1503.86073423) scale(.22804)"/>
+  <use xlink:href="#Shield1-3" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-1844.01457474 1503.86073423) scale(.22804)"/>
+  <use xlink:href="#Shield1-0" width="1" height="1" fill="purple" stroke-width="0" transform="translate(-1843.36967474 1481.57253423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-00" width="1" height="1" fill="url(#ap)" stroke-width="0" transform="translate(-1843.36967474 1481.57253423) scale(.22804)"/>
+  <use xlink:href="#Shield1-0" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-1843.36967474 1481.57253423) scale(.22804)"/>
+  <use xlink:href="#Shield1-09" width="1" height="1" stroke-width="0" transform="translate(-1882.71457474 1437.99943423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-34" width="1" height="1" fill="url(#aq)" stroke-width="0" transform="translate(-1882.71457474 1437.99943423) scale(.22804)"/>
+  <use xlink:href="#Shield1-09" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-1882.71457474 1437.99943423) scale(.22804)"/>
+  <use xlink:href="#Shield1-9" width="1" height="1" fill="#c00000" stroke-width="0" transform="translate(-1842.40207474 1459.24863423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-2" width="1" height="1" fill="url(#ar)" stroke-width="0" transform="translate(-1842.40207474 1459.24863423) scale(.22804)"/>
+  <use xlink:href="#Shield1-9" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-1842.40207474 1459.24863423) scale(.22804)"/>
+  <use xlink:href="#Shield1-1" width="1" height="1" fill="#00c000" stroke-width="0" transform="translate(-1859.81717474 1530.44943423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-9" width="1" height="1" fill="url(#as)" stroke-width="0" transform="translate(-1859.81717474 1530.44943423) scale(.22804)"/>
+  <use xlink:href="#Shield1-1" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-1859.81717474 1530.44943423) scale(.22804)"/>
+  <text x="-2140.3821" y="-1100.2617" fill="none" stroke="#000" stroke-width="0" font-family="Georgia" font-size="7.27039719" transform="matrix(-.99192 .02745 -.0179 -1.00765 0 0)">
+    
+  </text>
+  <text x="-2151.0217" y="-1100.7938" fill="none" stroke="#000" stroke-width="0" font-family="Georgia" font-size="7.27039719" transform="matrix(-.99192 .02745 -.0179 -1.00765 0 0)">
+    
+  </text>
+  <use xlink:href="#Shield1" width="1" height="1" fill="url(#at)" stroke-width="0" transform="translate(-80.02837474 1350.83232423) scale(.22804)"/>
+  <use xlink:href="#Shield1R" width="1" height="1" fill="#fff" stroke-width="0" transform="translate(-80.02837474 1350.83232423) scale(.22804)"/>
+  <use xlink:href="#Shield1" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-80.02837474 1350.83232423) scale(.22804)"/>
+  <use xlink:href="#Shield1-2" width="1" height="1" fill="#00f" stroke-width="0" transform="translate(-97.76557474 1326.93164423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-3" width="1" height="1" fill="url(#au)" stroke-width="0" transform="translate(-97.76557474 1326.93164423) scale(.22804)"/>
+  <use xlink:href="#Shield1-2" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-97.76557474 1326.93164423) scale(.22804)"/>
+  <use xlink:href="#Shield1-8" width="1" height="1" fill="gray" stroke-width="0" transform="translate(-97.79957474 1350.11579423) scale(.22804)"/>
+  <use xlink:href="#Shield1-8" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-97.79957474 1350.11579423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-0" width="54" height="64" fill="#fff" stroke-width="0" transform="translate(-97.74957474 1350.12961423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-0" width="54" height="64" fill="url(#av)" stroke-width="0" transform="translate(-97.61757474 1350.07940423) scale(.22804)"/>
+  <use xlink:href="#Shield1-88" width="1" height="1" fill="red" stroke-width="0" transform="translate(-97.76557474 1373.30003423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-7" width="1" height="1" fill="url(#aw)" stroke-width="0" transform="translate(-97.76557474 1373.30003423) scale(.22804)"/>
+  <use xlink:href="#Shield1-88" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-97.76557474 1373.30003423) scale(.22804)"/>
+  <use xlink:href="#Shield1-21" width="1" height="1" fill="#800040" stroke-width="0" transform="translate(-97.76557474 1396.48423423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-72" width="1" height="1" fill="url(#ax)" stroke-width="0" transform="translate(-97.76557474 1396.48423423) scale(.22804)"/>
+  <use xlink:href="#Shield1-21" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-97.76557474 1396.48423423) scale(.22804)"/>
+  <use xlink:href="#Shield1-7" width="1" height="1" fill="url(#ay)" stroke-width="0" transform="translate(-97.76557474 1419.66833423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-08" width="1" height="1" fill="url(#az)" stroke-width="0" transform="translate(-97.76557474 1419.66833423) scale(.22804)"/>
+  <use xlink:href="#Shield1-7" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-97.76557474 1419.66833423) scale(.22804)"/>
+  <use xlink:href="#Shield1-3" width="1" height="1" fill="#ff8000" stroke-width="0" transform="translate(-79.70567474 1417.69773423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-6" width="1" height="1" fill="url(#aA)" stroke-width="0" transform="translate(-79.70567474 1417.69773423) scale(.22804)"/>
+  <use xlink:href="#Shield1-3" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-79.70567474 1417.69773423) scale(.22804)"/>
+  <use xlink:href="#Shield1-0" width="1" height="1" fill="purple" stroke-width="0" transform="translate(-79.06077474 1395.40953423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-00" width="1" height="1" fill="url(#aB)" stroke-width="0" transform="translate(-79.06077474 1395.40953423) scale(.22804)"/>
+  <use xlink:href="#Shield1-0" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-79.06077474 1395.40953423) scale(.22804)"/>
+  <use xlink:href="#Shield1-09" width="1" height="1" stroke-width="0" transform="translate(-118.40557474 1351.83636423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-34" width="1" height="1" fill="url(#aC)" stroke-width="0" transform="translate(-118.40557474 1351.83636423) scale(.22804)"/>
+  <use xlink:href="#Shield1-09" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-118.40557474 1351.83636423) scale(.22804)"/>
+  <use xlink:href="#Shield1-9" width="1" height="1" fill="#c00000" stroke-width="0" transform="translate(-78.09317474 1373.08563423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-2" width="1" height="1" fill="url(#aD)" stroke-width="0" transform="translate(-78.09317474 1373.08563423) scale(.22804)"/>
+  <use xlink:href="#Shield1-9" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-78.09317474 1373.08563423) scale(.22804)"/>
+  <use xlink:href="#Shield1-1" width="1" height="1" fill="#00c000" stroke-width="0" transform="translate(-95.50817474 1444.28643423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-9" width="1" height="1" fill="url(#aE)" stroke-width="0" transform="translate(-95.50817474 1444.28643423) scale(.22804)"/>
+  <use xlink:href="#Shield1-1" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-95.50817474 1444.28643423) scale(.22804)"/>
+  <use xlink:href="#Shield1" width="1" height="1" fill="url(#aF)" stroke-width="0" transform="translate(-1713.60647474 1939.11453423) scale(.22804)"/>
+  <use xlink:href="#Shield1R" width="1" height="1" fill="#fff" stroke-width="0" transform="translate(-1713.60647474 1939.11453423) scale(.22804)"/>
+  <use xlink:href="#Shield1" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-1713.60647474 1939.11453423) scale(.22804)"/>
+  <use xlink:href="#Shield1-2" width="1" height="1" fill="#00f" stroke-width="0" transform="translate(-1731.34377474 1915.21393423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-3" width="1" height="1" fill="url(#aG)" stroke-width="0" transform="translate(-1731.34377474 1915.21393423) scale(.22804)"/>
+  <use xlink:href="#Shield1-2" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-1731.34377474 1915.21393423) scale(.22804)"/>
+  <use xlink:href="#Shield1-8" width="1" height="1" fill="gray" stroke-width="0" transform="translate(-1731.37767474 1938.39803423) scale(.22804)"/>
+  <use xlink:href="#Shield1-8" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-1731.37767474 1938.39803423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-0" width="54" height="64" fill="#fff" stroke-width="0" transform="translate(-1731.32777474 1938.41193423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-0" width="54" height="64" fill="url(#aH)" stroke-width="0" transform="translate(-1731.19577474 1938.36163423) scale(.22804)"/>
+  <use xlink:href="#Shield1-88" width="1" height="1" fill="red" stroke-width="0" transform="translate(-1731.34377474 1961.58233423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-7" width="1" height="1" fill="url(#aI)" stroke-width="0" transform="translate(-1731.34377474 1961.58233423) scale(.22804)"/>
+  <use xlink:href="#Shield1-88" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-1731.34377474 1961.58233423) scale(.22804)"/>
+  <use xlink:href="#Shield1-21" width="1" height="1" fill="#800040" stroke-width="0" transform="translate(-1731.34377474 1984.76643423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-72" width="1" height="1" fill="url(#aJ)" stroke-width="0" transform="translate(-1731.34377474 1984.76643423) scale(.22804)"/>
+  <use xlink:href="#Shield1-21" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-1731.34377474 1984.76643423) scale(.22804)"/>
+  <use xlink:href="#Shield1-7" width="1" height="1" fill="url(#aK)" stroke-width="0" transform="translate(-1731.34377474 2007.95063423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-08" width="1" height="1" fill="url(#aL)" stroke-width="0" transform="translate(-1731.34377474 2007.95063423) scale(.22804)"/>
+  <use xlink:href="#Shield1-7" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-1731.34377474 2007.95063423) scale(.22804)"/>
+  <use xlink:href="#Shield1-3" width="1" height="1" fill="#ff8000" stroke-width="0" transform="translate(-1713.28377474 2005.97993423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-6" width="1" height="1" fill="url(#aM)" stroke-width="0" transform="translate(-1713.28377474 2005.97993423) scale(.22804)"/>
+  <use xlink:href="#Shield1-3" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-1713.28377474 2005.97993423) scale(.22804)"/>
+  <use xlink:href="#Shield1-0" width="1" height="1" fill="purple" stroke-width="0" transform="translate(-1712.63887474 1983.69173423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-00" width="1" height="1" fill="url(#aN)" stroke-width="0" transform="translate(-1712.63887474 1983.69173423) scale(.22804)"/>
+  <use xlink:href="#Shield1-0" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-1712.63887474 1983.69173423) scale(.22804)"/>
+  <use xlink:href="#Shield1-09" width="1" height="1" stroke-width="0" transform="translate(-1751.98377474 1940.11863423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-34" width="1" height="1" fill="url(#aO)" stroke-width="0" transform="translate(-1751.98377474 1940.11863423) scale(.22804)"/>
+  <use xlink:href="#Shield1-09" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-1751.98377474 1940.11863423) scale(.22804)"/>
+  <use xlink:href="#Shield1-9" width="1" height="1" fill="#c00000" stroke-width="0" transform="translate(-1711.67127474 1961.36783423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-2" width="1" height="1" fill="url(#aP)" stroke-width="0" transform="translate(-1711.67127474 1961.36783423) scale(.22804)"/>
+  <use xlink:href="#Shield1-9" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-1711.67127474 1961.36783423) scale(.22804)"/>
+  <use xlink:href="#Shield1-1" width="1" height="1" fill="#00c000" stroke-width="0" transform="translate(-1729.08637474 2032.56863423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-9" width="1" height="1" fill="url(#aQ)" stroke-width="0" transform="translate(-1729.08637474 2032.56863423) scale(.22804)"/>
+  <use xlink:href="#Shield1-1" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(-1729.08637474 2032.56863423) scale(.22804)"/>
+  <text x="-2263.1301" y="-1601.911" fill="none" stroke="#000" stroke-width="0" font-family="Georgia" font-size="7.27039719" transform="matrix(-.99192 .02745 -.0179 -1.00765 0 0)">
+    
+  </text>
+  <text x="-2273.7698" y="-1602.443" fill="none" stroke="#000" stroke-width="0" font-family="Georgia" font-size="7.27039719" transform="matrix(-.99192 .02745 -.0179 -1.00765 0 0)">
+    
+  </text>
+  <use xlink:href="#Shield1" width="1" height="1" fill="url(#aR)" stroke-width="0" transform="translate(50.70252526 1852.95153423) scale(.22804)"/>
+  <use xlink:href="#Shield1R" width="1" height="1" fill="#fff" stroke-width="0" transform="translate(50.70252526 1852.95153423) scale(.22804)"/>
+  <use xlink:href="#Shield1" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(50.70252526 1852.95153423) scale(.22804)"/>
+  <use xlink:href="#Shield1-2" width="1" height="1" fill="#00f" stroke-width="0" transform="translate(32.96532526 1829.05083423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-3" width="1" height="1" fill="url(#aS)" stroke-width="0" transform="translate(32.96532526 1829.05083423) scale(.22804)"/>
+  <use xlink:href="#Shield1-2" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(32.96532526 1829.05083423) scale(.22804)"/>
+  <use xlink:href="#Shield1-8" width="1" height="1" fill="gray" stroke-width="0" transform="translate(32.93132526 1852.23503423) scale(.22804)"/>
+  <use xlink:href="#Shield1-8" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(32.93132526 1852.23503423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-0" width="54" height="64" fill="#fff" stroke-width="0" transform="translate(32.98132526 1852.24883423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-0" width="54" height="64" fill="url(#aT)" stroke-width="0" transform="translate(33.11332526 1852.19863423) scale(.22804)"/>
+  <use xlink:href="#Shield1-88" width="1" height="1" fill="red" stroke-width="0" transform="translate(32.96532526 1875.41923423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-7" width="1" height="1" fill="url(#aU)" stroke-width="0" transform="translate(32.96532526 1875.41923423) scale(.22804)"/>
+  <use xlink:href="#Shield1-88" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(32.96532526 1875.41923423) scale(.22804)"/>
+  <use xlink:href="#Shield1-21" width="1" height="1" fill="#800040" stroke-width="0" transform="translate(32.96532526 1898.60343423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-72" width="1" height="1" fill="url(#aV)" stroke-width="0" transform="translate(32.96532526 1898.60343423) scale(.22804)"/>
+  <use xlink:href="#Shield1-21" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(32.96532526 1898.60343423) scale(.22804)"/>
+  <use xlink:href="#Shield1-7" width="1" height="1" fill="url(#aW)" stroke-width="0" transform="translate(32.96532526 1921.78763423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-08" width="1" height="1" fill="url(#aX)" stroke-width="0" transform="translate(32.96532526 1921.78763423) scale(.22804)"/>
+  <use xlink:href="#Shield1-7" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(32.96532526 1921.78763423) scale(.22804)"/>
+  <use xlink:href="#Shield1-3" width="1" height="1" fill="#ff8000" stroke-width="0" transform="translate(51.02522526 1919.81693423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-6" width="1" height="1" fill="url(#aY)" stroke-width="0" transform="translate(51.02522526 1919.81693423) scale(.22804)"/>
+  <use xlink:href="#Shield1-3" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(51.02522526 1919.81693423) scale(.22804)"/>
+  <use xlink:href="#Shield1-0" width="1" height="1" fill="purple" stroke-width="0" transform="translate(51.67017526 1897.52873423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-00" width="1" height="1" fill="url(#aZ)" stroke-width="0" transform="translate(51.67017526 1897.52873423) scale(.22804)"/>
+  <use xlink:href="#Shield1-0" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(51.67017526 1897.52873423) scale(.22804)"/>
+  <use xlink:href="#Shield1-09" width="1" height="1" stroke-width="0" transform="translate(12.32532526 1853.95563423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-34" width="1" height="1" fill="url(#ba)" stroke-width="0" transform="translate(12.32532526 1853.95563423) scale(.22804)"/>
+  <use xlink:href="#Shield1-09" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(12.32532526 1853.95563423) scale(.22804)"/>
+  <use xlink:href="#Shield1-9" width="1" height="1" fill="#c00000" stroke-width="0" transform="translate(52.63775526 1875.20483423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-2" width="1" height="1" fill="url(#bb)" stroke-width="0" transform="translate(52.63775526 1875.20483423) scale(.22804)"/>
+  <use xlink:href="#Shield1-9" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(52.63775526 1875.20483423) scale(.22804)"/>
+  <use xlink:href="#Shield1-1" width="1" height="1" fill="#00c000" stroke-width="0" transform="translate(35.22272526 1946.40563423) scale(.22804)"/>
+  <use xlink:href="#Shield1R-9" width="1" height="1" fill="url(#bc)" stroke-width="0" transform="translate(35.22272526 1946.40563423) scale(.22804)"/>
+  <use xlink:href="#Shield1-1" width="1" height="1" fill="none" stroke="#000" stroke-width="0" transform="translate(35.22272526 1946.40563423) scale(.22804)"/>
+  <g transform="translate(345.63978056 -318.49437444)">
+    <g fill="none" stroke="#000" stroke-width="19">
+      <path d="M-127.33836536 468.49437735a78.30151585 138.29217806 0 0 1-156.6030317 0 78.30151585 138.29217806 0 1 1 156.6030317 0z"/>
+      <path d="M-166.4890499 400.68327256a138.2921784 78.30151544 29.99999922 1 1-78.30151585 135.62220282 138.2921784 78.30151544 29.99999922 0 1 78.30151585-135.62220282z"/>
+      <path d="M-244.79051306 400.68324911a78.30151544 138.29218006 59.99999903 0 1 78.30151586 135.62220282 78.30151544 138.29218006 59.99999903 1 1-78.30151586-135.62220282z"/>
+    </g>
+    <g fill="none" stroke="#e9e9e9" stroke-width="5" transform="translate(377.60487808 -1151.98842442) scale(2.68315)">
+      <path d="M-188.1902683 603.9472697a29.18265264 51.5409255 0 0 1-58.36530527 0 29.18265264 51.5409255 0 1 1 58.36530528 0z"/>
+      <path d="M-202.78156726 578.67435008a51.54092562 29.18265249 29.99999922 1 1-29.18265264 50.54583672 51.54092562 29.18265249 29.99999922 0 1 29.18265264-50.54583672z"/>
+      <path d="M-231.96420026 578.67434134a29.18265249 51.54092624 59.99999903 0 1 29.18265264 50.54583672 29.18265249 51.54092624 59.99999903 1 1-29.18265264-50.54583672z"/>
+    </g>
+    <path fill="#e9e9e9" stroke="#000" stroke-width="3" d="M-171.82670794 468.49436897a33.8131519 33.8131519 0 0 1-67.6263038 0 33.8131519 33.8131519 0 1 1 67.6263038 0z"/>
+  </g>
+</svg>

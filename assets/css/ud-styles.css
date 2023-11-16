@@ -14,7 +14,7 @@
 :root {
   --font: "Inter", sans-serif;
   --body-color: #637381;
-  --heading-color: #212b36;
+  --heading-color: #000000;
   --primary-color: #916de3;
   --white: #ffffff;
 }
@@ -325,17 +325,34 @@ p {
 }
 
 .navbar-nav .nav-item > a {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   color: var(--white);
   -webkit-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
   padding: 25px 8px;
   position: relative;
+
+  
+}
+
+.navbar-nav .nav-item-1 > a {
+  font-size: 36px;
+  font-weight: 600;
+  color: var(--white);
+  -webkit-transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s;
+  padding: 5px 20px;
+  position: relative;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
   .navbar-nav .nav-item > a {
+    display: block;
+    padding: 8px 0;
+    color: var(--heading-color);
+  }
+  .navbar-nav .nav-item-1 > a {
     display: block;
     padding: 8px 0;
     color: var(--heading-color);
@@ -346,9 +363,17 @@ p {
   color: var(--white);
   opacity: 0.5;
 }
+.navbar-nav .nav-item-1 > a:hover, .navbar-nav .nav-item > a.active {
+  color: var(--white);
+  opacity: 0.5;
+}
 
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
   .navbar-nav .nav-item > a:hover, .navbar-nav .nav-item > a.active {
+    color: var(--primary-color);
+    opacity: 1;
+  }
+  .navbar-nav .nav-item-1 > a:hover, .navbar-nav .nav-item > a.active {
     color: var(--primary-color);
     opacity: 1;
   }
@@ -387,6 +412,11 @@ p {
 }
 
 .navbar-nav .nav-item .ud-submenu .ud-submenu-link {
+  padding: 7px 0;
+  color: var(--heading-color);
+  font-size: 14px;
+}
+.navbar-nav .nav-item-1 .ud-submenu .ud-submenu-link {
   padding: 7px 0;
   color: var(--heading-color);
   font-size: 14px;
@@ -476,8 +506,15 @@ p {
   color: var(--primary-color);
   opacity: 1;
 }
+.sticky .navbar-nav .nav-item-1:hover > a {
+  color: var(--primary-color);
+  opacity: 1;
+}
 
 .sticky .navbar-nav .nav-item a {
+  color: var(--heading-color);
+}
+.sticky .navbar-nav .nav-item-1 a {
   color: var(--heading-color);
 }
 
@@ -616,30 +653,22 @@ p {
   opacity: 0.5;
 }
 
-.ud-hero-brands-wrapper {
-  text-align: center;
-  margin-bottom: 40px;
-}
-
-.ud-hero-brands-wrapper img {
-  -webkit-transition: all 0.3s;
-  transition: all 0.3s;
-  opacity: 0.5;
-  max-width: 250px;
-}
-
-.ud-hero-brands-wrapper img:hover {
-  opacity: 1;
+.hero-image-wrapper {
+  position: relative;
+  padding:0;
 }
 
 .ud-hero-image {
-  max-width: 845px;
-  margin: auto;
-  text-align: center;
+  width: 100%;
+  max-height: 40vh;
+  object-fit: cover;
+  object-position: center;
+}
+
+.hero-text {
   position: relative;
   z-index: 1;
 }
-
 .ud-hero-image img {
   max-width: 100%;
   text-align: center;
@@ -658,6 +687,22 @@ p {
 .ud-hero-image .shape.shape-2 {
   top: -20px;
   right: -20px;
+}
+.white-line, .black-line {
+  border: 2px solid;
+  width: calc(100% - 200px);
+  margin: 0px 100px;
+  transition: border-color 0.3s ease-out;
+}
+
+/* Стиль для белой линии */
+.white-line {
+  border-color: white;
+}
+
+/* Стиль для черной линии */
+.black-line {
+  border-color: black;
 }
 
 /* ===== Features CSS ===== */
