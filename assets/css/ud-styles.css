@@ -704,6 +704,10 @@ p {
 .black-line {
   border-color: black;
 }
+.offcanvas-header-text{
+  display: flex;
+  flex-direction: column;
+}
 
 /* ===== Features CSS ===== */
 .ud-features {
