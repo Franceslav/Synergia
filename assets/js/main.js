@@ -1,64 +1,32 @@
 (function () {
   "use strict";
 
-  // ======= Sticky
   window.onscroll = function () {
     const ud_header = document.querySelector(".ud-header");
     const sticky = ud_header.offsetTop;
-    const logo = document.querySelector(".navbar-brand img");
+    const scrollLine = document.querySelector('.white-line');
 
-    if (window.pageYOffset > sticky) {
+    if (window.scrollY > sticky) {
       ud_header.classList.add("sticky");
+      scrollLine.classList.add("black-line");
     } else {
       ud_header.classList.remove("sticky");
+      scrollLine.classList.remove("black-line");
     }
 
-    // === logo change
-    if (ud_header.classList.contains("sticky")) {
-      logo.src = "assets/images/logo/logo-2.svg";
-    } else {
-      logo.src = "assets/images/logo/logo.svg";
-    }
 
     // show or hide the back-top-top button
     const backToTop = document.querySelector(".back-to-top");
-    if (
-      document.body.scrollTop > 50 ||
-      document.documentElement.scrollTop > 50
-    ) {
+    if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
       backToTop.style.display = "flex";
     } else {
       backToTop.style.display = "none";
     }
   };
 
-  //===== close navbar-collapse when a  clicked
-  let navbarToggler = document.querySelector(".navbar-toggler");
-  const navbarCollapse = document.querySelector(".navbar-collapse");
+  // Rest of your existing code...
 
-  document.querySelectorAll(".ud-menu-scroll").forEach((e) =>
-    e.addEventListener("click", () => {
-      navbarToggler.classList.remove("active");
-      navbarCollapse.classList.remove("show");
-    })
-  );
-  navbarToggler.addEventListener("click", function () {
-    navbarToggler.classList.toggle("active");
-    navbarCollapse.classList.toggle("show");
-  });
-
-  // ===== submenu
-  const submenuButton = document.querySelectorAll(".nav-item-has-children");
-  submenuButton.forEach((elem) => {
-    elem.querySelector("a").addEventListener("click", () => {
-      elem.querySelector(".ud-submenu").classList.toggle("show");
-    });
-  });
-
-  // ===== wow js
-  new WOW().init();
-
-  // ====== scroll top js
+  // ===== scroll top js
   function scrollTo(element, to = 0, duration = 500) {
     const start = element.scrollTop;
     const change = to - start;
