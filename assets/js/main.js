@@ -24,6 +24,9 @@
     }
   };
 
+  //document.querySelector('.nav-item-1 a').addEventListener('click', function() {
+   // window.location.href = "index.html#index.html";
+
   // Rest of your existing code...
 
   // ===== scroll top js
